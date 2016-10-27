@@ -15,7 +15,7 @@ INSERT INTO products(Product_Name,Department_Name,Price,Stock_Quantity)
 VALUES("Dish Soap","Soap", 5, 4);
 
 INSERT INTO products(Product_Name,Department_Name,Price,Stock_Quantity)
-VALUES("Old Spice Deoderant", "Deoderant", 7.50, 600);
+VALUES("Old Spice Deoderant", "Deoderant", 7.50, 800);
 
 INSERT INTO products(Product_Name,Department_Name,Price,Stock_Quantity)
 VALUES("Basketball","Sports", 12.50, 500);
